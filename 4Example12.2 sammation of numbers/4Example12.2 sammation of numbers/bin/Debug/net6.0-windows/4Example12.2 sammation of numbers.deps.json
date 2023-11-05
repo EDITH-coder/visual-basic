@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4Example12.2 sammation of numbers/1.0.0": {
+        "runtime": {
+          "4Example12.2 sammation of numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4Example12.2 sammation of numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

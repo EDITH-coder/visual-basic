@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\bin\Debug\net6.0-windows\4Example12.5 Do while.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\bin\Debug\net6.0-windows\4Example12.5 Do while.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\bin\Debug\net6.0-windows\4Example12.5 Do while.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\bin\Debug\net6.0-windows\4Example12.5 Do while.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\bin\Debug\net6.0-windows\4Example12.5 Do while.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\_4Example12._5_Do_while.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\refint\4Example12.5 Do while.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\4Example12.5 Do while.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.5 Do while\4Example12.5 Do while\obj\Debug\net6.0-windows\ref\4Example12.5 Do while.dll

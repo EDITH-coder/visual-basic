@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\bin\Debug\net6.0-windows\2Arithmetic Operator 3.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\bin\Debug\net6.0-windows\2Arithmetic Operator 3.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\bin\Debug\net6.0-windows\2Arithmetic Operator 3.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\bin\Debug\net6.0-windows\2Arithmetic Operator 3.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\bin\Debug\net6.0-windows\2Arithmetic Operator 3.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\_2Arithmetic_Operator_3.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\refint\2Arithmetic Operator 3.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\2Arithmetic Operator 3.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2Arithmetic Operator 3\2Arithmetic Operator 3\obj\Debug\net6.0-windows\ref\2Arithmetic Operator 3.dll

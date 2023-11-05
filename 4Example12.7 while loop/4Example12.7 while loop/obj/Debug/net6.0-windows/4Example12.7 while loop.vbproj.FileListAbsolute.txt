@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\bin\Debug\net6.0-windows\4Example12.7 while loop.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\bin\Debug\net6.0-windows\4Example12.7 while loop.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\bin\Debug\net6.0-windows\4Example12.7 while loop.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\bin\Debug\net6.0-windows\4Example12.7 while loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\bin\Debug\net6.0-windows\4Example12.7 while loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\_4Example12._7_while_loop.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\refint\4Example12.7 while loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\4Example12.7 while loop.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.7 while loop\4Example12.7 while loop\obj\Debug\net6.0-windows\ref\4Example12.7 while loop.dll

@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\bin\Debug\net6.0-windows\4for-loop.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\bin\Debug\net6.0-windows\4for-loop.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\bin\Debug\net6.0-windows\4for-loop.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\bin\Debug\net6.0-windows\4for-loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\bin\Debug\net6.0-windows\4for-loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\_4for_loop.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\refint\4for-loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\4for-loop.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4for-loop\4for-loop\obj\Debug\net6.0-windows\ref\4for-loop.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4Example12.1 Adding numbers to Listbox/1.0.0": {
+        "runtime": {
+          "4Example12.1 Adding numbers to Listbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4Example12.1 Adding numbers to Listbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

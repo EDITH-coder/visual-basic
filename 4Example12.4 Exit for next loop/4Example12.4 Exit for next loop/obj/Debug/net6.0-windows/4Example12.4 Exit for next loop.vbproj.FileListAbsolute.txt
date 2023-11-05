@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\bin\Debug\net6.0-windows\4Example12.4 Exit for next loop.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\bin\Debug\net6.0-windows\4Example12.4 Exit for next loop.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\bin\Debug\net6.0-windows\4Example12.4 Exit for next loop.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\bin\Debug\net6.0-windows\4Example12.4 Exit for next loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\bin\Debug\net6.0-windows\4Example12.4 Exit for next loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\_4Example12._4_Exit_for_next_loop.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\refint\4Example12.4 Exit for next loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\4Example12.4 Exit for next loop.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.4 Exit for next loop\4Example12.4 Exit for next loop\obj\Debug\net6.0-windows\ref\4Example12.4 Exit for next loop.dll

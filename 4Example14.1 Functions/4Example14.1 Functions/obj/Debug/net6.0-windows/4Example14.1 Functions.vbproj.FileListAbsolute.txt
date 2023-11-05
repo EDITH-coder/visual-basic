@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\bin\Debug\net6.0-windows\4Example14.1 Functions.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\bin\Debug\net6.0-windows\4Example14.1 Functions.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\bin\Debug\net6.0-windows\4Example14.1 Functions.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\bin\Debug\net6.0-windows\4Example14.1 Functions.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\bin\Debug\net6.0-windows\4Example14.1 Functions.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\_4Example14._1_Functions.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\refint\4Example14.1 Functions.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\4Example14.1 Functions.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example14.1 Functions\4Example14.1 Functions\obj\Debug\net6.0-windows\ref\4Example14.1 Functions.dll

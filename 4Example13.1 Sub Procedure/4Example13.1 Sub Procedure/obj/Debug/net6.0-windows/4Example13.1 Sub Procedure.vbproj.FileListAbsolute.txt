@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\bin\Debug\net6.0-windows\4Example13.1 Sub Procedure.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\bin\Debug\net6.0-windows\4Example13.1 Sub Procedure.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\bin\Debug\net6.0-windows\4Example13.1 Sub Procedure.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\bin\Debug\net6.0-windows\4Example13.1 Sub Procedure.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\bin\Debug\net6.0-windows\4Example13.1 Sub Procedure.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\_4Example13._1_Sub_Procedure.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\refint\4Example13.1 Sub Procedure.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\4Example13.1 Sub Procedure.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example13.1 Sub Procedure\4Example13.1 Sub Procedure\obj\Debug\net6.0-windows\ref\4Example13.1 Sub Procedure.dll

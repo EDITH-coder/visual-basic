@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\bin\Debug\net6.0-windows\2ListBox1.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\bin\Debug\net6.0-windows\2ListBox1.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\bin\Debug\net6.0-windows\2ListBox1.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\bin\Debug\net6.0-windows\2ListBox1.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\bin\Debug\net6.0-windows\2ListBox1.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\_2ListBox1.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\refint\2ListBox1.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\2ListBox1.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\2ListBox1\2ListBox1\obj\Debug\net6.0-windows\ref\2ListBox1.dll

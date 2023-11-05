@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\bin\Debug\net6.0-windows\4Procedures.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\bin\Debug\net6.0-windows\4Procedures.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\bin\Debug\net6.0-windows\4Procedures.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\bin\Debug\net6.0-windows\4Procedures.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\bin\Debug\net6.0-windows\4Procedures.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\_4Procedures.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\refint\4Procedures.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\4Procedures.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Procedures\4Procedures\obj\Debug\net6.0-windows\ref\4Procedures.dll

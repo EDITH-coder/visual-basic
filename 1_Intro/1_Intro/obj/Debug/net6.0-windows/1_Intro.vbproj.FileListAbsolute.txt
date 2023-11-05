@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\bin\Debug\net6.0-windows\1_Intro.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\bin\Debug\net6.0-windows\1_Intro.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\bin\Debug\net6.0-windows\1_Intro.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\bin\Debug\net6.0-windows\1_Intro.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\bin\Debug\net6.0-windows\1_Intro.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\_1_Intro.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\refint\1_Intro.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\1_Intro.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Intro\1_Intro\obj\Debug\net6.0-windows\ref\1_Intro.dll

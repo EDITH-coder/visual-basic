@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\bin\Debug\net6.0-windows\4Example12.2 sammation of numbers.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\bin\Debug\net6.0-windows\4Example12.2 sammation of numbers.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\bin\Debug\net6.0-windows\4Example12.2 sammation of numbers.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\bin\Debug\net6.0-windows\4Example12.2 sammation of numbers.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\bin\Debug\net6.0-windows\4Example12.2 sammation of numbers.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\_4Example12._2_sammation_of_numbers.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\refint\4Example12.2 sammation of numbers.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\4Example12.2 sammation of numbers.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.2 sammation of numbers\4Example12.2 sammation of numbers\obj\Debug\net6.0-windows\ref\4Example12.2 sammation of numbers.dll

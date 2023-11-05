@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\bin\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\bin\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\bin\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\bin\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\bin\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\_4Example12._1_Adding_numbers_to_Listbox.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\refint\4Example12.1 Adding numbers to Listbox.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\4Example12.1 Adding numbers to Listbox.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.1 Adding numbers to Listbox\4Example12.1 Adding numbers to Listbox\obj\Debug\net6.0-windows\ref\4Example12.1 Adding numbers to Listbox.dll

@@ -1,0 +1,8 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\_1_Introduction.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\1_Introduction.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\1_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\1_Introduction.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\1_Introduction.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\1_Introduction.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\refint\1_Introduction.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\1_Introduction\1_Introduction\obj\Debug\net6.0-windows\1_Introduction.pdb

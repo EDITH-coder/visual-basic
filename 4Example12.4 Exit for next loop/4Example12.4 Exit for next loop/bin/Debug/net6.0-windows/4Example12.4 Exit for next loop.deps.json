@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4Example12.4 Exit for next loop/1.0.0": {
+        "runtime": {
+          "4Example12.4 Exit for next loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4Example12.4 Exit for next loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

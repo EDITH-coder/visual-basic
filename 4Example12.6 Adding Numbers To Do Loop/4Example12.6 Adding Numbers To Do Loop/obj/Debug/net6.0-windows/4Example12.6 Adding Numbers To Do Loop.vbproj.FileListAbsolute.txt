@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\bin\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\bin\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\bin\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\bin\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\bin\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\_4Example12._6_Adding_Numbers_To_Do_Loop.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\refint\4Example12.6 Adding Numbers To Do Loop.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\4Example12.6 Adding Numbers To Do Loop.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\4Example12.6 Adding Numbers To Do Loop\4Example12.6 Adding Numbers To Do Loop\obj\Debug\net6.0-windows\ref\4Example12.6 Adding Numbers To Do Loop.dll

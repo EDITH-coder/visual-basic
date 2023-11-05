@@ -1,0 +1,16 @@
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\bin\Debug\net6.0-windows\3Leap year.exe
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\bin\Debug\net6.0-windows\3Leap year.deps.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\bin\Debug\net6.0-windows\3Leap year.runtimeconfig.json
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\bin\Debug\net6.0-windows\3Leap year.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\bin\Debug\net6.0-windows\3Leap year.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\_3Leap_year.Form1.resources
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.vbproj.GenerateResource.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.AssemblyInfoInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.AssemblyInfo.vb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.vbproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\refint\3Leap year.dll
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.pdb
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\3Leap year.genruntimeconfig.cache
+C:\Users\Dell-User\Documents\VB.NET\Class Project\3Leap year\3Leap year\obj\Debug\net6.0-windows\ref\3Leap year.dll
